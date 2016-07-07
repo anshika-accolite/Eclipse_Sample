@@ -26,6 +26,7 @@ public class Calculater implements LearningInterface {
 	@Override
 	public Integer divide(Integer val1, Integer val2)throws ArithmeticException {
 		// TODO Auto-generated method stub
+		System.out.println("Changed text");
 		return (val1/val2);
 	}
 	
